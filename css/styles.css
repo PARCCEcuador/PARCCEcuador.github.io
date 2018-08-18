@@ -30,7 +30,7 @@
 }
 
 .row h3 {
-	color: #61381e;
+	color: #000000;
 }
 
 
@@ -39,16 +39,16 @@
 }
 
 .jumbotron h1 {
-    color: #61381e;
+    color: #000000;
 }
 
 
 .jumbotron h2 {
-    color: #61381e;
+    color: #000000;
 }
 
 .jumbotron p {
-    color: #61381e;
+    color: #000000;
 }
 
 .featuredImg {
@@ -57,7 +57,7 @@
 
 .btn-accent {
 	background-color: #ECF5D5;
-	color: #61381e;
+	color: #000000;
 }
 
 .jumbotron img {
